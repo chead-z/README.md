@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Lua,Python,JS,Html.**
 
-- 📫 How to reach me **https://discord.com/users/941912647572545566**
+- 📫 How to reach me [Discord](https://discord.com/users/941912647572545566)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
